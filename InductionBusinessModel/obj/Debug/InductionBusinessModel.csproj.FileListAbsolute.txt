@@ -1,0 +1,9 @@
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionBusinessModel\bin\Debug\InductionBusinessModel.dll
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionBusinessModel\bin\Debug\InductionBusinessModel.pdb
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionBusinessModel\bin\Debug\InductionDAL.dll
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionBusinessModel\bin\Debug\InductionDAL.pdb
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionBusinessModel\obj\Debug\InductionBusinessModel.csprojAssemblyReference.cache
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionBusinessModel\obj\Debug\InductionBusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionBusinessModel\obj\Debug\InductionBusinessModel.csproj.CopyComplete
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionBusinessModel\obj\Debug\InductionBusinessModel.dll
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionBusinessModel\obj\Debug\InductionBusinessModel.pdb

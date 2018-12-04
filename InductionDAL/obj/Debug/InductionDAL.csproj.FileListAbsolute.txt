@@ -1,0 +1,6 @@
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionDAL\bin\Debug\InductionDAL.dll
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionDAL\bin\Debug\InductionDAL.pdb
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionDAL\obj\Debug\InductionDAL.csproj.CoreCompileInputs.cache
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionDAL\obj\Debug\InductionDAL.dll
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionDAL\obj\Debug\InductionDAL.pdb
+C:\Users\P10444143\OneDrive\MyStudy\InductionWebAPI\InductionApp\InductionDAL\obj\Debug\InductionDAL.csprojAssemblyReference.cache
